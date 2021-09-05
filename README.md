@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kapilsharma432001
 - 👀 I’m interested in backend development.
-- 🌱 I’m currently working as a Software Engineer Intern in VVDN Technologies Pvt. Ltd..
+- 🌱 I’m currently working as a Software Engineer at VVDN Technologies Pvt. Ltd..
 - 📫 How to reach me -> "sharmakapil432001@gmail.com" is my email.
 
 <!---
