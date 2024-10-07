@@ -8,7 +8,7 @@ I am working as a backend developer for over 3 years. I have an expertise in Pyt
 
 *   🌍  I'm based in Gurgaon, India.
 *   ✉️  You can contact me at [sharmakapil432001@gmail.com](mailto:sharmakapil432001@gmail.com)
-*   🧠  I work on Python and Django mainly while I'm learning ReactJS.
+*   🧠  I work on Python and Django mainly while I'm learning ReactJS and NodeJS.
 *   🤝  I am open to collaborate on new and exciting projects.
 
 ### Skills 
