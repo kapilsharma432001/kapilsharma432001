@@ -6,7 +6,7 @@ Backend Developer
 
 I am working as a backend developer for over 3 years. I have an expertise in Python, API Development and Django Framework. I am always eager to learn new technologies and enhance my skills.
 
-*   🌍  I'm based in Gurgaon, India.
+*   🌍  I'm based in Banglore, India.
 *   ✉️  You can contact me at [sharmakapil432001@gmail.com](mailto:sharmakapil432001@gmail.com)
 *   🧠  I work on Python and Django mainly while I'm learning ReactJS and NodeJS.
 *   🤝  I am open to collaborate on new and exciting projects.
