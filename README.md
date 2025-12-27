@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Application Engineer** at Tiger Analytics with **3+ years** of experience building scalable backend systems. Currently crafting intelligent claim processing systems with a sprinkle of AI ✨
+I'm a **Senior Application Engineer** at Tiger Analytics with **4.5+ years** of experience building scalable backend systems. Currently crafting intelligent claim processing systems with a sprinkle of AI ✨
 
 - 🔭 Building high-throughput systems handling **40K+ emails/day** and processing **2.5M claims annually**
 - 🧠 Passionate about **LLMs, RAG systems**, and making AI practical for enterprises
