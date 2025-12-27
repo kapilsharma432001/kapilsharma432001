@@ -19,7 +19,7 @@ I'm a **Senior Application Engineer** at Tiger Analytics with **4.5+ years** of 
 - 🔭 Building high-throughput systems handling **40K+ emails/day** and processing **2.5M claims annually**
 - 🧠 Passionate about **LLMs, RAG systems**, and making AI practical for enterprises
 - 🌍 Based in **Bangalore, India**
-- ✉️ Reach me at **[sharmakapil432001@gmail.com](mailto:sharmakapil432001@gmail.com)**
+- ✉️ Reach me at **[kapil.sharma.dev04@gmail.com](mailto:sharmakapil432001@gmail.com)**
 - 🤝 Open to collaborate on **backend architecture** and **AI integration** projects
 
 ---
