@@ -1,86 +1,80 @@
 <div align="center">
   
-# Hey there! I'm Kapil Sharma 👋
+# Hi, I'm Kapil Sharma 👋
 
-### Senior Application Engineer | Backend Specialist | AI Enthusiast
+### Senior Backend & AI Engineer
+**Architecting Scalable Distributed Systems | GenAI Orchestration | AWS Cloud**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eta-eight-yr6vul126r.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapil-sharma-37274b1a0)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@kapilsharma0403)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eta-eight-yr6vul126r.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapil-sharma-37274b1a0)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapil.sharma.dev04@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Professional Summary
 
-I'm a **Senior Application Engineer** at Tiger Analytics with **4.5+ years** of experience building scalable backend systems. Currently crafting intelligent claim processing systems with a sprinkle of AI ✨
+I am a **Senior Application Engineer** with **4.5+ years of experience** specializing in high-performance backend infrastructure. Currently, I focus on bridging the gap between **Reliable Distributed Systems** and **Probabilistic AI Models**.
 
-- 🔭 Building high-throughput systems handling **40K+ emails/day** and processing **2.5M claims annually**
-- 🧠 Passionate about **LLMs, RAG systems**, and making AI practical for enterprises
-- 🌍 Based in **Bangalore, India**
-- ✉️ Reach me at **[kapil.sharma.dev04@gmail.com](mailto:kapil.sharma.dev04@gmail.com)**
-- 🤝 Open to collaborate on **backend architecture** and **AI integration** projects
+* **Scale:** Architected event-driven workflows handling **40K+ daily transactions** and **2.5M+ annual claims**.
+* **AI Engineering:** Building production-grade **RAG pipelines** and **Multi-Agent Systems** that solve actual business problems, not just demos.
+* **Location:** India 🇮🇳 (Remote Ready & Experienced with US Timezones)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ The "Senior" Stack
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+I don't just use tools; I choose the right tool for the job.
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### AI/ML
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+| Domain | Technologies |
+| :--- | :--- |
+| **Core Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) |
+| **Data & Cache** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) |
+| **Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) |
+| **AI Engineering** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) ![VectorDB](https://img.shields.io/badge/Vector_Embeddings-FF6F00?logo=firebase&logoColor=white) |
 
 ---
 
-## 🏆 Highlights
+## 🧩 Featured Engineering
 
-- 📧 Designed email workflows delivering **~40K emails/day** using EventBridge + SES
-- 🧪 Built FastAPI microservices with **90%+ test coverage**
-- 🤖 Integrated **LLM-based decision support** systems for enterprise workflows
-- 📹 Built **real-time video streaming** with WebRTC
-- 💬 Created an **HR chatbot with RAG** that actually understands company policies
+### 1. Enterprise RAG System (Current Focus)
+*Building a context-aware retrieval engine for complex decision support.*
+* **Architecture:** Hybrid Search (Keyword + Vector) using PostgreSQL `pgvector`.
+* **Key Solved:** Reduced hallucination rates by implementing a "Citation & Verification" layer before LLM response.
+
+### 2. High-Performance AI Gateway
+*A unified interface to manage LLM providers with enterprise controls.*
+* **Tech:** FastAPI, Redis (Rate Limiting), Celery (Async Logging).
+* **Features:** Cost tracking per tenant, fallback logic (OpenAI -> Azure -> Anthropic), and semantic caching to reduce API costs by 30%.
+
+---
+
+## ⚡ Engineering Philosophy
+
+How I approach software design:
+
+* **Schema First:** APIs are contracts. I define OpenAPIs/Pydantic models before writing a single line of logic.
+* **Observability is Mandatory:** If it's not logged in CloudWatch/Datadog with a correlation ID, it didn't happen.
+* **Boring Technology:** I prefer proven, stable tech (Postgres/Django) for the core, and limit "experimental" tech to the edges.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilsharma432001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=kapilsharma432001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilsharma432001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilsharma432001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kapilsharma432001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 ---
 
 <div align="center">
-  
-### 💬 Let's Connect!
 
-*"Building systems that scale, one microservice at a time."*
+### 🤝 Let's Build Something Scalable
+*"Code that works on Friday evening is good. Code that works on Monday morning is better."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=kapilsharma432001&color=0891b2&style=flat-square)
+[**Email Me**](mailto:kapil.sharma.dev04@gmail.com) • [**LinkedIn**](https://www.linkedin.com/in/kapil-sharma-37274b1a0)
 
 </div>
