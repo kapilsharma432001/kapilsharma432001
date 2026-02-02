@@ -23,7 +23,7 @@ I am a **Senior Application Engineer** with **4.5+ years of experience** special
 
 ---
 
-## 🛠️ The Stack
+## 🛠️ Tech Stack
 
 I don't just use tools; I choose the right tool for the job.
 
