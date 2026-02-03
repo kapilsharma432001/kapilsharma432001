@@ -63,17 +63,14 @@ How I approach software design:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilsharma432001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kapilsharma432001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilsharma432001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kapilsharma432001&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapilsharma432001&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilsharma432001&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
-
-<div align="center">
 
 ### 🤝 Let's Build Something Scalable
 *"Code that works on Friday evening is good. Code that works on Monday morning is better."*
