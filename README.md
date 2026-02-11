@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi, I am Kapil Sharma 👋
+# Hi!, I am Kapil Sharma 👋
 
 ### Senior Backend & AI Engineer
 **Architecting Scalable Distributed Systems | Agentic AI Workflows | AWS Serverless**
