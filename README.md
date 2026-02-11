@@ -36,7 +36,7 @@ I don't just use tools; I choose the right tool for the job.
 
 ---
 
-## 🧩 Featured Engineering
+## 🧩 Featured Engineering (Personal Projects)
 
 ### 1. Enterprise Agentic RAG System
 *A self-correcting knowledge engine for complex decision support.*
