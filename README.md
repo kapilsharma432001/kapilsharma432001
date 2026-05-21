@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kapil Sharma
+# Hi ! This is Kapil 👋🏻
 
 **Senior Application Engineer @ Tiger Analytics**  
 Python backend engineering, AI systems, and system design.
