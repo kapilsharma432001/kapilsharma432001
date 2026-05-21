@@ -1,80 +1,76 @@
 <div align="center">
-  
-# Hi !!, I am Kapil 👋
 
-### Senior Backend & AI Engineer
-**Architecting Scalable Distributed Systems | Agentic AI Workflows | AWS Serverless**
+# Kapil Sharma
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eta-eight-yr6vul126r.vercel.app/)
+### Senior Application Engineer | Backend Systems | AI Engineering
+
+I build Python backend systems, AI-assisted workflows, and system design projects with a focus on reliability, clean APIs, and practical engineering tradeoffs.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eta-eight-yr6vul126r.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapil-sharma-37274b1a0)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapil.sharma.dev04@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapil.sharma.dev04@gmail.com)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Professional Summary
+## About Me
 
-I am a **Senior Application Engineer** with **4.5+ years of experience** specializing in high-performance backend infrastructure. Currently, I focus on bridging the gap between **Reliable Distributed Systems** and **Probabilistic AI Models**.
+I am a **Senior Application Engineer at Tiger Analytics** working across backend engineering, API design, data-backed systems, and AI application development.
 
-* **Scale:** Architected event-driven workflows handling **40K+ daily transactions** and **2.5M+ annual claims** at Tiger Analytics.
-* **AI Engineering:** Moving beyond simple RAG to build **Agentic Workflows (LangGraph)** and **Self-Correcting Systems** that solve actual business problems.
-* **Location:** India 🇮🇳 (Remote Ready & Experienced with Global Teams)
+My core stack includes **Python, FastAPI, Django, PostgreSQL, Redis, AWS, Docker, LangChain, LangGraph, RAG, and backend system design**. I use this profile to share projects that reflect how I think about production software: clear boundaries, readable code, tested behavior, useful automation, and systems that can evolve without becoming fragile.
 
----
+## What I Build
 
-## 🛠️ Tech Stack
+- **Backend platforms and APIs** with Python, FastAPI, Django, PostgreSQL, Redis, and Docker.
+- **AI engineering tools** that use LLM reasoning for code review, retrieval, memory, and workflow automation.
+- **RAG and agentic systems** with LangChain, LangGraph, structured prompts, retrieval pipelines, and evaluation-minded design.
+- **System design implementations** that turn concepts like queues, load balancers, streams, caching, and event sourcing into working examples.
+- **Practical full-stack learning projects** as I deepen TypeScript and React fundamentals.
 
-I don't just use tools; I choose the right tool for the job.
+## Featured Projects
 
-| Domain | Technologies |
+| Project | What it is | Technical focus |
+| :--- | :--- | :--- |
+| [**ShipGuard**](https://github.com/kapilsharma432001/ShipGuard) | AI release-risk reviewer for pull requests. It analyzes PR diffs and changed files, detects risky changes, generates HTML reports, and can post human-like PR comments with suggested fixes. | Python, LLM reasoning, PR diff analysis, release risk checks, code review automation |
+| [**SMARN**](https://github.com/kapilsharma432001/SMARN) | AI second brain and memory assistant with Telegram commands like `/remember` and `/ask`. It enriches saved memories with summaries, categories, tags, and importance scores for long-term retrieval. | LLM enrichment, Telegram bot workflows, personal knowledge retrieval |
+| [**systems-from-scratch**](https://github.com/kapilsharma432001/systems-from-scratch) | System design learning and building repository with notes and implementations of core backend infrastructure concepts. | Distributed systems, queues, streams, event sourcing, load balancing, backend fundamentals |
+| [**learning_typescript**](https://github.com/kapilsharma432001/learning_typescript) | Practical TypeScript learning repository focused on building stronger frontend and full-stack fundamentals. | TypeScript, JavaScript foundations, full-stack growth |
+
+## Tech Stack
+
+| Area | Tools |
 | :--- | :--- |
-| **Core Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) |
-| **Data & Cache** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) |
-| **Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) |
-| **Agentic AI** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white) ![LiteLLM](https://img.shields.io/badge/LiteLLM-Proxy-8A2BE2?logo=lightning&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-0A66C2?logo=semanticweb&logoColor=white) ![RAGAS](https://img.shields.io/badge/RAGAS-Evaluation-FF6F00?logo=python&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-Local_AI-000?logo=linux&logoColor=white) |
+| **Backend** | Python, FastAPI, Django, REST APIs, async workflows |
+| **Data** | PostgreSQL, Redis, schema design, query optimization basics |
+| **AI Engineering** | LangChain, LangGraph, RAG, prompt design, LLM-based reasoning |
+| **Infrastructure** | AWS, Docker, Linux, GitHub Actions |
+| **System Design** | queues, caches, load balancers, streams, event sourcing, API contracts |
+| **Frontend Learning** | TypeScript, React fundamentals |
 
----
+## Current Focus
 
-## 🧩 Featured Engineering (Personal Projects)
+- Building useful **AI engineering** tools around code review, retrieval, memory, and automation.
+- Strengthening **backend architecture** patterns for reliable APIs and data-backed services.
+- Turning **system design** concepts into small, understandable implementations.
+- Improving **TypeScript and React fundamentals** for better full-stack execution.
 
-### 1. Enterprise Agentic RAG System
-*A self-correcting knowledge engine for complex decision support.*
-* **Architecture:** Hybrid Search (BM25 + Vector) using **PostgreSQL pgvector**.
-* **Agentic Workflow:** Implemented a **LangGraph** state machine where a "Critic Agent" evaluates retrieval quality before generating answers.
-* **Reliability:** Integrated **RAGAS** for automated evaluation of Faithfulness and Answer Relevance in CI/CD.
+## GitHub Activity
 
-### 2. High-Performance AI Gateway
-*A unified interface to manage LLM providers with enterprise controls.*
-* **Tech:** FastAPI, Redis (Token Bucket Rate Limiting), Celery (Async Logging).
-* **Features:** Implemented **Model Context Protocol (MCP)** for standardized tool use and fallback logic (OpenAI → Azure → Ollama) to optimize cost vs. latency.
+<div align="center">
 
----
+![Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapilsharma432001&show_icons=true&hide_border=true&theme=default&rank_icon=github)
 
-## ⚡ Engineering Philosophy
-
-How I approach software design:
-
-* **Schema First:** APIs are contracts. I define OpenAPIs/Pydantic models before writing a single line of logic.
-* **Observability is Mandatory:** If it's not logged in CloudWatch/Datadog with a correlation ID, it didn't happen.
-* **Boring Technology:** I prefer proven, stable tech (Postgres/Django) for the core, and limit "experimental" tech to the edges.
-
----
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kapilsharma432001&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapilsharma432001&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilsharma432001&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
----
-
-### 🤝 Let's Build Something Scalable
-*"Code that works on Friday evening is good. Code that works on Monday morning is better."*
-
-[**Email Me**](mailto:kapil.sharma.dev04@gmail.com) • [**LinkedIn**](https://www.linkedin.com/in/kapil-sharma-37274b1a0)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilsharma432001&layout=compact&hide_border=true&theme=default)
 
 </div>
+
+## Contact
+
+I am easiest to reach through [LinkedIn](https://www.linkedin.com/in/kapil-sharma-37274b1a0) or [email](mailto:kapil.sharma.dev04@gmail.com). My portfolio is available at [portfolio-eta-eight-yr6vul126r.vercel.app](https://portfolio-eta-eight-yr6vul126r.vercel.app/).
