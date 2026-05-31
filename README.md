@@ -5,7 +5,6 @@
 **Senior Application Engineer @ Tiger Analytics**  
 Python backend engineering, AI systems, and system design.
 
-[Portfolio](https://portfolio-eta-eight-yr6vul126r.vercel.app/) ·
 [LinkedIn](https://www.linkedin.com/in/kapil-sharma-37274b1a0) ·
 [Email](mailto:kapil.sharma.dev04@gmail.com)
 
