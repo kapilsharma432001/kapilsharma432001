@@ -18,7 +18,7 @@ Currently focused on:
 
 - AI engineering for practical developer and product workflows
 - Backend architecture for reliable APIs and data-backed services
-- System design fundamentals, built from scratch
+- System design fundamentals
 - TypeScript and React fundamentals
 
 Selected public work is pinned below.
